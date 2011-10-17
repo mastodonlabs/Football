@@ -1,0 +1,11 @@
+
+CREATE TABLE game (
+
+ id INTEGER PRIMARY KEY NOT NULL,
+ week INTEGER,
+ away VARCHAR(3) NOT NULL,
+ home VARCHAR(3) NOT NULL,
+ date_time DATETIME NOT NULL
+
+);
+

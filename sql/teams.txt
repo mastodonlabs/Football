@@ -1,0 +1,32 @@
+BAL	Ravens	Baltimore Ravens	AFC	North	http://www.baltimoreravens.com/
+CIN	Bengals	Cincinnati Bengals	AFC	North	http://www.bengals.com/
+CLE	Browns	Cleveland Browns	AFC	North	http://www.clevelandbrowns.com/
+PIT	Steelers	Pittsburgh Steelers	AFC	North	http://www.steelers.com/
+HOU	Texans	Houston Texans	AFC	South	http://www.houstontexans.com/
+IND	Colts	Indianapolis Colts	AFC	South	http://www.colts.com/
+JAX	Jaguars	Jacksonville Jaguars	AFC	South	http://www.jaguars.com/
+TEN	Titans	Tennessee Titans	AFC	South	http://www.titansonline.com/
+BUF	Bills	Buffalo Bills	AFC	East	http://www.buffalobills.com/
+MIA	Dolphins	Miami Dolphins	AFC	East	http://www.miamidolphins.com/
+NE	Patriots	New England Patriots	AFC	East	http://www.patriots.com/
+NYJ	Jets	New York Jets	AFC	East	http://www.newyorkjets.com/
+DEN	Broncos	Denver Broncos	AFC	West	http://www.denverbroncos.com/
+KC	Chiefs	Kansas City Chiefs	AFC	West	http://www.kcchiefs.com/
+OAK	Raiders	Oakland Raiders	AFC	West	http://www.raiders.com/
+SD	Chargers	San Diego Chargers	AFC	West	http://www.chargers.com/
+CHI	Bears	Chicago Bears	NFC	North	http://www.chicagobears.com/
+DET	Lions	Detroit Lions	NFC	North	http://www.detroitlions.com/
+GB	Packers	Green Bay Packers	NFC	North	http://www.packers.com/
+MIN	Vikings	Minnesota Vikings	NFC	North	http://www.vikings.com/
+ATL	Falcons	Atlanta Falcons	NFC	South	http://www.atlantafalcons.com/
+CAR	Panthers	Carolina Panthers	NFC	South	http://www.panthers.com/
+NO	Saints	New Orleans Saints	NFC	South	http://www.neworleanssaints.com/
+TB	Buccaneers	Tampa Bay Buccaneers	NFC	South	http://www.buccaneers.com/
+DAL	Cowboys	Dallas Cowboys	NFC	East	http://www.dallascowboys.com/
+NYG	Giants	New York Giants	NFC	East	http://www.giants.com/
+PHI	Eagles	Philadelphia Eagles	NFC	East	http://www.philadelphiaeagles.com/
+WAS	Redskins	Washington Redskins	NFC	East	http://www.redskins.com/
+ARI	Cardinals	Arizona Cardinals	NFC	West	http://www.azcardinals.com/
+SF	49ers	San Francisco 49ers	NFC	West	http://www.sf49ers.com/
+SEA	Seahawks	Seattle Seahawks	NFC	West	http://www.seahawks.com/
+STL	Rams	Saint Louis Rams	NFC	West	http://www.stlouisrams.com/

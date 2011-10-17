@@ -1,0 +1,10 @@
+
+CREATE TABLE team (
+ id VARCHAR(3) PRIMARY KEY NOT NULL,	
+ name VARCHAR(20) NOT NULL,
+ fullname VARCHAR(50) NOT NULL,
+ conference CHAR(3) NOT NULL,	
+ division VARCHAR(5) NOT NULL,	
+ website VARCHAR(80) NOT NULL
+);
+
